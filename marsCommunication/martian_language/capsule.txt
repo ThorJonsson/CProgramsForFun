@@ -1,0 +1,9 @@
+3 5 3
+abc
+bca
+dac
+dbc
+cba
+(ab)(bc)(ca)
+abc
+(abc)(abc)(abc)
